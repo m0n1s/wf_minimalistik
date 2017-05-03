@@ -1,0 +1,27 @@
+{
+    "author": "simon@priskon.de",
+    "dependencies": {},
+    "keywords": [],
+    "name": "minimalistik",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "minimalistik",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "60bae73e-98c1-4942-93fc-074b3dc44793",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "0.1.0"
+}
